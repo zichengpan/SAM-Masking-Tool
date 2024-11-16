@@ -13,10 +13,10 @@ def delete_category(listWidget):
         print(listWidget)
 
 def updateListWidget2(self):
-    self.listWidget2.clear()  # 首先清空listWidget2中的内容
+    self.listWidget2.clear()
 
     for annotation in self.annotationStack:
         label = annotation['label']
-        item = QListWidgetItem(label)  # 为label创建一个新的QListWidgetItem
-        self.listWidget2.addItem(item)  # 将item添加到listWidget2中
+        item = QListWidgetItem(label)
+        self.listWidget2.addItem(item)
 
