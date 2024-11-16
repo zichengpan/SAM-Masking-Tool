@@ -1,7 +1,9 @@
 # SAM-Masking-Tool
 This is a SAM-based interactive image annotation tool that allows users to create binary masks on images through point prompts, with category management and mask visualization capabilities. It's a tool developed based on [this project](https://github.com/wudi-ldd/SAM-Annotation).
 
-![alt-text-1](./images/sample.jpg "sample 1") ![alt-text-2](./images/mask.jpg "mask 1")
+## Visualization of SAM Mask
+
+<img src='./images/sample.jpg' width='500'> <img src='./images/mask.jpg' width='500'>
 
 ## Prerequisites
 
