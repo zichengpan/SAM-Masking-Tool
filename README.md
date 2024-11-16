@@ -3,7 +3,7 @@ This is a SAM-based interactive image annotation tool that allows users to creat
 
 ## Visualization of SAM Mask
 
-<img src='./images/sample.jpg' width='500'> <img src='./images/mask.jpg' width='500'>
+<img src='./images/sample.jpg' width='450'> <img src='./images/mask.jpg' width='450'>
 
 ## Prerequisites
 
